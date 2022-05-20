@@ -1,0 +1,5 @@
+[lemma="potřeba"&tag="N...4.*"] []* [lemma="chovat|chovávat"] within <s />
+
+[lemma="chovat|chovávat"][]*[lemma="potřeba"&tag="N...4.*"] within <s />
+
+TODO tohle je docela zvlastni - skoro nikdy to neplati, chce si to dat pozor a asi vyhodit?

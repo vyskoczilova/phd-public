@@ -1,0 +1,5 @@
+[lemma="představa"&tag="N...4.*"] []* [lemma="chovat|chovávat"] within <s />
+
+[lemma="chovat|chovávat"][]*[lemma="představa"&tag="N...4.*"] within <s />
+
+TODO taky celkem nic moc jako pot5eba

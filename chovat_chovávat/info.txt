@@ -1,0 +1,33 @@
+[lemma="chovat"|lemma="chovávat"][tag!="Z.*"&lemma!="se"&lemma!="si"]{0,4}[tag="N...4.*"] within <s />
+syn_v10
+https://www.korpus.cz/kontext/view?q=~sSeq8qQe6Uk2
+korpusová nastavení: word + lemma + tag
+zobrazení: věta
+frekvence - vlastní:
+	* minimální frekvence 10
+	* konfidenční hladina 95 % (výchozí)
+	* lemma + slova KWIC nejvíce vpravo
+	* NEJDOU EXPORTOVAT: zobrazit konfidenční intervaly
+	* Uložit -> vlastní, csv, přidat nadpisy sloupců
+
+https://ufal.mff.cuni.cz/vallex/4.0/#/lexeme/chova1/0
+predikativní významy:
+1 - držet v náručí
+2 - pěstovat (chovat prasata)
+4 - čekat dítě IDIOM
+5 - starat se + opatrovat IDIOM (chová někoho jako v bavlnce)
+6 - vážit si IDIOM (Komu je přes dvacet, toho tu chovají v úctě.)
+
+vallex working, 9.9 - pdt-vallex 4.0 a v-vallex
+frame = CPHR, lemma = "chovat"
+data_9.9_working (4/4/2022 12:0)
+
+Radimský 2010: 30, 42, 72
+
+kolokace: lemma, -3, 3
+https://www.korpus.cz/kontext/view?q=~suYqWkaqC2Is
+
+===
+
+[tag="N...4.*" & lemma="ambice|antipatie|cit|despekt|důvěra|iluze|láska|myšlenka|naděje|náklonnost|názor|nedůvěra|nechuť|nenávist|nepřátelství|nevraživost|obava|obdiv|obraz|odpor|ohled|opovržení|plán|pocit|podezření|postoj|potřeba|přání|přátelství|představa|předsudek|přesvědčení|přízeň|respekt|sen|skepse|slabost|sympatie|touha|úcta|úmysl|vášeň|víra|vztah|záměr|zášť|zloba"]  []* [lemma="chovat"|lemma="chovávat"] within <s />
+[lemma="chovat"|lemma="chovávat"]  []*  [tag="N...4.*" & lemma="ambice|antipatie|cit|despekt|důvěra|iluze|láska|myšlenka|naděje|náklonnost|názor|nedůvěra|nechuť|nenávist|nepřátelství|nevraživost|obava|obdiv|obraz|odpor|ohled|opovržení|plán|pocit|podezření|postoj|potřeba|přání|přátelství|představa|předsudek|přesvědčení|přízeň|respekt|sen|skepse|slabost|sympatie|touha|úcta|úmysl|vášeň|víra|vztah|záměr|zášť|zloba"] within <s />

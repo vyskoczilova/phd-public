@@ -1,0 +1,6 @@
+[lemma="skepse"&tag="N...4.*"] []* [lemma="chovat|chovávat"] within <s />
+
+[lemma="chovat|chovávat"][]*[lemma="skepse"&tag="N...4.*"] within <s />
+
+TODO Chová krátkosrstou kolii a přívětivou skepsi k sobě i ke světu.
+WTF věta :-D

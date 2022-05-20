@@ -1,0 +1,2 @@
+blu-n-cit-1 blu-n-naděje-1 blu-n-náklonnost-1 blu-n-nedůvěra-1 blu-n-nedůvěra-2 blu-n-nenávist-1 blu-n-obdiv-1 blu-n-podezření-1 blu-n-podezření-2 blu-n-přátelství-2 blu-n-respekt-1 blu-n-sympatie-1 blu-n-úcta-1 blu-n-zášť-1
+cit,důvěra,naděje,nenávist,nepřátelství,podezření,přátelství

@@ -1,0 +1,3 @@
+[lemma="vztah"&tag="N...4.*"] []* [lemma="chovat|chovávat"] within <s />
+
+[lemma="chovat|chovávat"][]*[lemma="vztah"&tag="N...4.*"] within <s />
