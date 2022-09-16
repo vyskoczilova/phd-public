@@ -1,0 +1,21 @@
+|   druha_studie_anotace_dat.py
+|   druha_studie_statistika.py
+|   homonyma_v_prirucce.py
+|   homonyma_v_prirucce_statistika.py
+|   prvni_studie_anotace_dat.py
+|   prvni_studie_anotace_predikativnich_jmen.py
+|   prvni_studie_anotace_statistika.py
+|   prvni_studie_anotace_statistika_pos.py
+|   prvni_studie_data.py
+|   struktura.txt
+|   xlsx_to_csv.py
+|   
+\---scripts
+        collocations.py
+        concordance.py
+        data.py
+        helpers.py
+        rich_excel_writer.py
+        word_lists.py
+        __init__.py
+        
